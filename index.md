@@ -1,36 +1,39 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: hc svnt
+tagline: dracones
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+### Hello
 
-In `_config.yml` remember to specify your own data:
+<p><img src='/assets/images/n_oah_marchal.jpg' title='n.oah marchal' alt='Photo of Noah' width='120px' align="right" />
+
+This is the blog for n.oah marchal. I am a technology nerd with a varied, interdisciplinary background in fine art, architecture, writing, psychology, human computer interfaces, electronics, microcomputing, and more.   
+
+During down time I am an avid runner, cyclist, m&m-a-holic, and film buff. I happily married to <a href="http://www.researchgate.net/profile/Lihui_Song/">Lihui Song</a>, Ph.D</p>
+
+
+
+
+
+
+
+
+
+### Research
+
+My day job is as a Senior Research Technologist at the <a href="http://freylab.missouri.edu">Rehabilitation Neuroscience Laboratory</a> at the University of Missouri developing and conducting human motor neuroscience research. 
+
+I have professional interest in the fields of functional magnetic resonance imaging, transcranial magnetic stimulation, kinematics, and their related analysis techniques, particulary with computational preprocessing methods, and as of late, parallelization of software tools for HTCondor and Son of Grid Engine environments (specifically FSL and Bedpost for crunching diffusion tensor imaging data).
+
+Find out more about my work and interests: <a href="http://istics.org>www.Istics.org</a>
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+### Posts
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +41,10 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+### WIP
+1. moves
+2. opinions
+3. technologies
+4. tips
+5. interests
 
