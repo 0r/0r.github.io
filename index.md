@@ -27,7 +27,7 @@ During down time I am an avid runner, cyclist, m&m-a-holic, and film buff. I hap
 
 My day job is as a Senior Research Technologist at the <a href="http://freylab.missouri.edu">Rehabilitation Neuroscience Laboratory</a> at the University of Missouri developing and conducting human motor neuroscience research. 
 
-I have professional interest in the fields of functional magnetic resonance imaging, transcranial magnetic stimulation, kinematics, and their related analysis techniques, particulary with computational preprocessing methods, and as of late, parallelization of software tools for HTCondor and Son of Grid Engine environments (specifically FSL and Bedpost for crunching diffusion tensor imaging data).
+I have professional interest in the fields of functional magnetic resonance imaging, transcranial magnetic stimulation, kinematics, and their related analysis techniques, particulary with computational preprocessing and statistical methodologies, and, as of late, parallelization of software tools for HTCondor and Son of Grid Engine environments (specifically FSL and Bedpost for crunching diffusion tensor imaging data).
 
 Find out more about my work and interests: <a href="http://istics.org">www.Istics.org</a>
     
