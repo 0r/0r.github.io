@@ -8,6 +8,7 @@ description: "n.oah"
 
 
 I currently live in:
+
 +   <s>Kentucky</s>
 
 +   <s>Illinois</s>
@@ -19,6 +20,7 @@ I currently live in:
 +   <s>Oregon</s>
 
 +   Columbia, Missouri
+
 
 
 
