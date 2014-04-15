@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HC Svnt
+title: HC svnt
 tagline: dracones
 ---
 {% include JB/setup %}
